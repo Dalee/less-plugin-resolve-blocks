@@ -1,0 +1,19 @@
+{
+  "name": "less-plugin-resolve-blocks",
+  "version": "1.0.0",
+  "description": "Simple plugin to use block reference inside less files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ns3777k/less-plugin-resolve-blocks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ns3777k/less-plugin-resolve-blocks/issues"
+  },
+  "homepage": "https://github.com/ns3777k/less-plugin-resolve-blocks#readme",
+  "devDependencies": {
+    "less": "^2.7.1"
+  }
+}
