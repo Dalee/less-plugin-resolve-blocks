@@ -3,17 +3,30 @@
   "version": "1.0.0",
   "description": "Simple plugin to use block reference inside less files",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">=4.4.7"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ns3777k/less-plugin-resolve-blocks.git"
   },
-  "author": "",
+  "author": "Nikita Safonov <ns3777k@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ns3777k/less-plugin-resolve-blocks/issues"
   },
   "homepage": "https://github.com/ns3777k/less-plugin-resolve-blocks#readme",
   "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-dalee": "^0.1.3",
     "less": "^2.7.1"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint lib/",
+    "test": "node test"
   }
 }
