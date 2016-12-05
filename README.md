@@ -1,5 +1,7 @@
 # less-plugin-resolve-blocks
 
+[![Build Status](https://travis-ci.org/Dalee/less-plugin-resolve-blocks.svg?branch=master)](https://travis-ci.org/Dalee/less-plugin-resolve-blocks)
+
 Simple file management plugin to resolve blocks inside less-files.
 
 Consider having two files:
