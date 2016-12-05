@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-resolve-blocks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple plugin to use block reference inside less files",
   "main": "index.js",
   "files": [
@@ -12,14 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ns3777k/less-plugin-resolve-blocks.git"
+    "url": "git+https://github.com/Dalee/less-plugin-resolve-blocks.git"
   },
-  "author": "Nikita Safonov <ns3777k@gmail.com>",
+  "author": "Dalee IA <dev@dalee.ru>",
+  "contributors": [
+    {
+      "name": "Nikita Safonov",
+      "email": "ns3777k@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ns3777k/less-plugin-resolve-blocks/issues"
+    "url": "https://github.com/Dalee/less-plugin-resolve-blocks/issues"
   },
-  "homepage": "https://github.com/ns3777k/less-plugin-resolve-blocks#readme",
+  "homepage": "https://github.com/Dalee/less-plugin-resolve-blocks",
   "devDependencies": {
     "eslint": "^3.11.1",
     "eslint-config-dalee": "^0.1.3",
