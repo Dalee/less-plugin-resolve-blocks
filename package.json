@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-resolve-blocks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple plugin to use block reference inside less files",
   "main": "index.js",
   "files": [
